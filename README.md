@@ -1,2 +1,3 @@
 # learn-js
-js learning
+Those are js learning projects.
+Using VS Code editor.
